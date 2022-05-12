@@ -2,11 +2,11 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Checkout Success Page Extension</h2>
+				<h1>Magento 2 Checkout Success Page Extension</h1>
         <p>Magento 2 checkout success page Extension helps build loyalty and trust among users by upgrading a Thank You page.</p>
 				<p>With the help of the <strong><a href="https://www.mageants.com/checkout-success-page-extension-for-magento-2.html">Magento 2 Checkout Success Page Extension</a></strong>  a store owner can improve their sales and maintain the customer's trust by thanking them through a success page or Thank You page. It is a great way to attract more customers.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Helps in displaying the full order summary.</li>
 						<li>Allow discounts as a coupon code for the next order.</li>
